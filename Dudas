@@ -1,1 +1,24 @@
+Hola Soledad, dejo aquí planteadas algunas dudas.
+Por ejemplo, en la última clase que plantearon la entrega opcional, mencionaron secciones como: Contexto Comercial, Problema Comercial y Contexto analítico.
+Vi el video explicativo, pero no estoy segura de entender que iría en cada sección. Si podrías aclararme eso.
+
+A continuación dejo dudas que estan en el notebook sobre cuestiones del código o programación, sobre como hacer ciertas cosas.
+
+#Modificamos las variables 'object' a 'category'           
+######  DUDA: esto coresponde para estas que son ordinales e importa el orden? nose como ordenarlas despues en los gráficos
+
+# Calcular el coeficiente de variación para cada columna          
+##### esto se puede pedir en una sola linea de codigo? bajo un mismo nombre y pedir imprimir solo eso? en vez de crear una variable para cada uno?
+
+#Graficamos histogramas para ver la distribución de estas variables.        
+#####DUDA: intente grafica en 2 filas y 3 columnas para que no queden en una misma linea pero no pude solucionar el error "ValueError: not enough values to unpack (expected 5, got 3)"
+
+**Duda general**: utilizar algún tipo de encoder para variables ordinales, o renombrarlas con algun código para entender el orden de mejor a peor?
+No encontré forma de reorganizar las barras.
+
+######  Cuando es un solo gráfico ponia titulos de esta forma, si quiero hacer más de uno use axs (creo de matplotlib) porque no encontre como se hace con seaborn
+#plt.title('Carat vs. Precio')   
+#plt.xlabel('Carat (quilates)')
+#plt.ylabel('Precio en dólares')
+
 
